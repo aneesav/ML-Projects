@@ -2,7 +2,7 @@
 
 Hi! 👋 
 
-I'm Aneesa - a Bioinformatics Scientist and PhD Dropout, turned Data Scientist in an industry setting. 
+I'm Aneesa - a Bioinformatics Scientist and PhD Dropout, turned Data Scientist in an Industry setting. 
 
 I recently withdrew from my PhD program after 2 years, due to suffering severe burnout and financial insecurity, as well as being subjected to elevated toxicity, politics and beaurocracy within the program. 
 
