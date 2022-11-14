@@ -1,13 +1,11 @@
 # ML-Projects
 
-Hi! 👋 
+Welcome 👋 
 
-I'm Aneesa - a Bioinformatics Scientist and PhD Dropout, turned Data Scientist in an Industry setting. 
+I'm Aneesa - a Bioinformatics Scientist and PhD Dropout, turned Data Scientist in the private sector. 
 
-I recently withdrew from my PhD program after 2 years, due to suffering severe burnout and financial insecurity, as well as being subjected to elevated toxicity, politics and beaurocracy within the program. 
+I possess 4+ years demonstrated proficiency in Python and R Programming, Machine Learning, Predictive Modeling/Analytics, Exploratory Data Analysis & Visualization as well as strategic Stakeholder Communication. 
 
-Though truncated, my stay allowed me to conduct rigorous Data Science research on murine embryonic cardiovascular development, and leverage my critical thinking skills towards developing a passion for Data Science and Machine Learning.
+I thrive on creative, impactful solutions, and curated this portfolio to showcase my passion projects.
 
-With this Github portfolio, I hope to curate a space for all of my own ML projects, as well as any learnings & inspiration I come across.
-
-Hope you enjoy! 😊 
+Enjoy!
