@@ -11,7 +11,7 @@ In this repo, you will find foundational projects that demonstrate my core compe
 * Data Analysis (data exploration, dimensionality reduction - PCA)
 * K-means Clustering
 * Linear Regression 
-* Classification (Logistic Regression, SVM, Decision Tree, Ensmeble Methods: Random Forest)
+* Classification (Logistic Regression, SVM, Decision Tree, Ensemble Methods: Random Forest)
 * Deep Learning (Neural Networks - NLP) 
 
 This repo intentionally showcases simple projects, to emphasize the importance of foundational knowledge and skills. It becomes easy to solve more complex problems when you fortify your foundation, as I've illustrated here.
